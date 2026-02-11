@@ -17,3 +17,17 @@ sentence-transformers
 langchain_huggingface
 faiss-cpu
 langchain_chroma
+
+
+############
+ipywidgets
+tqdm
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+python-dotenv
+streamlit
+streamlit-chat
+
+
