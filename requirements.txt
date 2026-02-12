@@ -29,5 +29,8 @@ langchain-google-genai
 python-dotenv
 streamlit
 streamlit-chat
-
+langchain_groq
+langchain_core
+fastapi
+langserve
 
