@@ -33,4 +33,5 @@ langchain_groq
 langchain_core
 fastapi
 langserve
+bs4
 
